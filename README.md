@@ -1,24 +1,14 @@
-# myproject
+# Registrar usuario Vue
 
-## Project setup
+## Instalar node
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Integrantes
+- Manuel Bonilla
+- Valentina Rendon
